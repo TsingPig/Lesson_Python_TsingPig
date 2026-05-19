@@ -1,5 +1,3 @@
-保研岛蓝桥杯Python冲刺班资料库；
-
 如果您觉得本课程还不错，欢迎点击右上角的 “Star” 给予支持；
 
 b站 pre版本视频合集 https://space.bilibili.com/398421867/lists?sid=4898042&spm_id_from=333.788.0.0
